@@ -1,2 +1,2 @@
-# Run_Lenght_Encoding
+# Run_Length_Encoding
 Image Processing RLE using MATLAB
